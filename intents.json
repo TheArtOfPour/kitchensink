@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "NewIngredientIntent",
+      "slots": [
+        {
+          "name": "ingredients",
+          "type": "INGREDIENTS"
+        }
+      ]
+    },
+    {
+      "intent": "AddIngredientIntent",
+      "slots": [
+        {
+          "name": "ingredients",
+          "type": "INGREDIENTS"
+        }
+      ]
+    },
+    {
+      "intent": "RemoveIngredientIntent",
+      "slots": [
+        {
+          "name": "ingredients",
+          "type": "INGREDIENTS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

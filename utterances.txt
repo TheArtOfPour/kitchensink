@@ -1,0 +1,19 @@
+NewIngredientIntent give me recipes for {ingredients}
+NewIngredientIntent i need recipes for {ingredients}
+NewIngredientIntent what can I make with {ingredients}
+NewIngredientIntent what can I cook with {ingredients}
+NewIngredientIntent what can I make from {ingredients}
+AddIngredientIntent {ingredients}
+AddIngredientIntent add {ingredients}
+AddIngredientIntent with {ingredients}
+AddIngredientIntent add {ingredients}
+AddIngredientIntent toss in {ingredients}
+AddIngredientIntent some {ingredients}
+AddIngredientIntent {ingredients} as well
+AddIngredientIntent {ingredients} too
+RemoveIngredientIntent remove {ingredients}
+RemoveIngredientIntent scratch {ingredients}
+RemoveIngredientIntent nevermind the {ingredients}
+RemoveIngredientIntent forget the {ingredients}
+RemoveIngredientIntent minus the {ingredients}
+RemoveIngredientIntent without the {ingredients}
