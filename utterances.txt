@@ -14,6 +14,7 @@ AddIngredientIntent {ingredients} too
 RemoveIngredientIntent remove {ingredients}
 RemoveIngredientIntent scratch {ingredients}
 RemoveIngredientIntent nevermind the {ingredients}
+RemoveIngredientIntent never mind the {ingredients}
 RemoveIngredientIntent forget the {ingredients}
 RemoveIngredientIntent minus the {ingredients}
 RemoveIngredientIntent without the {ingredients}
