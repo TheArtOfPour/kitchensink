@@ -259,7 +259,7 @@ exports.handler = (event, context, callback) => {
     try {
         console.log(`event.session.application.applicationId=${event.session.application.applicationId}`);
 
-        if (event.session.application.applicationId !== 'amzn1.ask.skill.e9aac135-7e8c-44a0-a045-827c4f851543') {
+        if (event.session.application.applicationId !== 'INSERT-ID-HERE') {
              callback('Invalid Application ID');
         }
 
